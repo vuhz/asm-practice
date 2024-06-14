@@ -1,6 +1,6 @@
 # spaghetti code
-# Convert decimal to hexadecimal, read in stack until not a num
-# Example: 1111 -> 0x457
+# Convert string to hexadecimal, read in stack until not a num
+# Example: "1111" -> 0x457
 # input :   [rsp+0x0] 
 # output:   r8        
 # example usage:
